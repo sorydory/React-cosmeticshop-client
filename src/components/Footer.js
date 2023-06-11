@@ -46,9 +46,9 @@ const Footer = () => {
       <div className="address">
         <div className="inner">
           상호 : 헤라 <br />
-          주소 : 울산광역시 남구 삼산중로 100번길 <br />
-          대표전화 : 국번없이 052-1234-4223 대표이사 : 김그린 개인정보관리자 :
-          이블루 사업자 등록번호 : 102-12-12345 <br />
+          주소 : 경기도 성남시 중원구 <br />
+          대표전화 : 국번없이 052-1234-4223 대표이사 : 전진솔 개인정보관리자 :
+          헤라 사업자 등록번호 : 102-12-12345 <br />
           copyright(c) Sory Dory, all rights reserved.
         </div>
       </div>
