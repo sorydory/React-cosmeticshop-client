@@ -6,5 +6,5 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=Css3&logoColor=white"/>
 
 
-![herashop](https://github.com/sorydory/React-cosmeticshop-client/assets/103230840/1608e5aa-4010-4ce3-a9c6-701b4ae58c0c)
+![ezgif com-video-to-gif](https://github.com/sorydory/React-cosmeticshop-client/assets/116371230/79f17b61-cf43-4dfd-8ab5-0b398b27ab4f)
 
